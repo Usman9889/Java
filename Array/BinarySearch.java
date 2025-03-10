@@ -20,6 +20,6 @@ public class BinarySearch {
       public static void main(String[] args) {
             int numbers[] = {29, 45, 59, 65, 78, 85};
             int key = 85;
-            System.out.println(" index for key is : "+binarySearch(numbers, key));
+            System.out.println(" index for key is : " + binarySearch(numbers, key));
       }
 }
