@@ -17,7 +17,7 @@ public class ArrayCC {
                   System.out.print(marks[i] + " ");
             }
             System.out.println();
-
+            //
             // int marks[] = new int[10];
 
             // Scanner sc = new Scanner(System.in);
